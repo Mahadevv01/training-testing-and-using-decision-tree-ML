@@ -37,5 +37,3 @@ Once the model is trained, we test it using the test data (`X_test`, `y_test`) t
 
 To run the code, you need the following Python packages installed:
 
-```bash
-pip install pandas scikit-learn joblib
