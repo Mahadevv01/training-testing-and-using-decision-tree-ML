@@ -33,7 +33,5 @@ The trained model is saved using the `joblib` library for future predictions wit
 ### 5. Test and Evaluate the Model
 Once the model is trained, we test it using the test data (`X_test`, `y_test`) to see how well it performs. The accuracy of the model is calculated using `accuracy_score`.
 
-## Requirements
 
-To run the code, you need the following Python packages installed:
 
